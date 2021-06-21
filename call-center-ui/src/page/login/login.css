@@ -1,0 +1,31 @@
+.ant-progress {
+    line-height: 0;
+}
+
+.site-layout-content {
+    min-height: 100vh;
+    background: #F3F7FA;
+    line-height: 0;
+}
+
+.login-form-button {
+    width: 80%;
+    color: white;
+}
+
+.login-input {
+    /*-webkit-box-shadow: 0 4px 6px -6px #222;*/
+    /*-moz-box-shadow: 0 4px 6px -6px #222;*/
+    /*box-shadow: 0 4px 6px -6px #222;*/
+    border-radius: 3px;
+}
+
+.login-area {
+    background: white;
+    margin: auto;
+    padding: 20px;
+    -webkit-box-shadow: 0 4px 6px -6px #222;
+    -moz-box-shadow: 0 4px 6px -6px #222;
+    box-shadow: 0 4px 6px -6px #222;
+    border-radius: 3px;
+}

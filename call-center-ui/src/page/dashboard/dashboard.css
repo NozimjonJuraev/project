@@ -1,0 +1,23 @@
+.site-layout-content {
+    min-height: 280px;
+    background: #F3F7FA;
+    padding: 10px 50px;
+}
+
+.ant-card-body {
+    padding: 0;
+}
+
+.dashboard-info-card {
+    -webkit-box-shadow: 0 4px 6px -6px #222;
+    -moz-box-shadow: 0 4px 6px -6px #222;
+    box-shadow: 0 4px 6px -6px #222;
+    min-width: 170px;
+    border-radius: 3px;
+}
+
+.dashboard-filter-item {
+    -webkit-box-shadow: 0 4px 6px -6px #222;
+    -moz-box-shadow: 0 4px 6px -6px #222;
+    box-shadow: 0 3px 6px -6px #222;
+}
